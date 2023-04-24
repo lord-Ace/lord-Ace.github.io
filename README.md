@@ -23,7 +23,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [label](index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.io)
+- Live Site URL: [Add l skills by building projects
+Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+
+Improve your front-end skills by building projects Scan the QR code to visit Frontend Mentor and take your coding skive site URL here](https://lord-ace.github.io/)
 
 ## My process
 
